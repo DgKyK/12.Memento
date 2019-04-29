@@ -1,8 +1,8 @@
 public class GitHub {
     private CheckPoint checkPoint;
 
-    public void GitHub(CheckPoint checkPoint) {
-        this.checkPoint = checkPoint;
+    public GitHub() {
+
     }
 
     public CheckPoint unCommit() {
